@@ -22,7 +22,7 @@
 
 #include <boost/test/unit_test.hpp>
 #include <libsolidity/CompilerStack.h>
-#include <jsonrpc/json/json.h>
+#include <jsonrpccpp/server.h>
 
 namespace dev
 {
